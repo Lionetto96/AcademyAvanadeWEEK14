@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QY7VbnrmIYRsty4fl24NuEPprromqbAHrKxJvEQCS2z5ih98JXGQsRvcRLK+cG5L7lRD1HQbauhrq8LzWeB/rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessia.lionetto\\source\\repos\\Week14\\AcademyA_CDO.Week6 (1)\\AcademyA_CDO.Week6\\AcademyA_CDO.Week6.Core\\AcademyA_CDO.Week6.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
