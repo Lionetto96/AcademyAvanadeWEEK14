@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+pN1hGjpe8RKuIPBmhT4Rjkl7tk2s5qNTOIqqPAXnNRGA1URE68Edrr3f6xs3jW68wrhqwqSIPvx7ej7nw1gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessia.lionetto\\source\\repos\\Week14\\AcademyA_CDO.Week6 (1)\\AcademyA_CDO.Week6\\AcademyA_CDO.Week6.EsTicket.Core\\AcademyA_CDO.Week6.EsTicket.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
